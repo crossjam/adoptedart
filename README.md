@@ -2,8 +2,12 @@ The AdoptedArt project.
 
 Copyright (c) 2012 Brian M. Dennis
 
-AdoptedArt by Brian M. Dennis is licensed under a [Creative Commons
-Attribution-NonCommercial-ShareAlike 3.0 United States][2] License.
+AdoptedArt by Brian M. Dennis. This work is licensed under the
+Creative Commons [Attribution-NonCommercial-ShareAlike 3.0 United
+States License][2]. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc-sa/3.0/us/ or send a letter
+to Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+California, 94041, USA.
 
 This project is a remix of [Matt Pearson's](http://zenbullets.com)
 work at [AbandonedArt.org](http://abandonedart.org). The project is an
