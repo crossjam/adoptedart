@@ -15,7 +15,7 @@ exercise in putting the original work on GitHub for anyone to clone
 (building my git muscles), converting the originals to be written in
 Python using [pyprocessing][1] (building my processing and Python
 muscles) and remixing into new and interesting things (building my
-generative art muscles)
+generative art muscles).
 
 <a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img
